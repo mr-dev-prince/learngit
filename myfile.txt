@@ -3,3 +3,4 @@ how is the temperature !!
 - here is a temporary change to be stashed
 - this is commit 1
 - this is to be staged 
+- this is a for a commit to be restored
