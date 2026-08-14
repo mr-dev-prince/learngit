@@ -4,4 +4,5 @@ how is the temperature !!
 - this is commit 1
 - this is to be staged 
 - this is a for a commit to be restored
-- this is a bug
+- this is a bug but this should remain here
+- this is not a bug
